@@ -1,0 +1,26 @@
+{
+  "name": "tdd-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faelst/tdd-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faelst/tdd-app/issues"
+  },
+  "homepage": "https://github.com/Faelst/tdd-app#readme",
+  "devDependencies": {
+    "vitest": "^0.23.2"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
